@@ -1,0 +1,10 @@
+Working on: a9a...
+loading lammax from: /home/yutong/db/lammax/lammax-a9a-0.5.mat
+loading Lipschitz constant from: /home/yutong/db/Lip/Lip-a9a.mat
+Use fast initialization for the GL1 object
+Spend 0.0 seconds to initialize r.
+Process: 1 / 1
+
+==============================
+Exit: Iteration limit reached
+

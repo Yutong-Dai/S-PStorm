@@ -1,0 +1,7 @@
+.DS_Store
+.vscode/
+*.pyc
+*.nbc
+*.nbi
+*checkpoints
+*.ipynb_checkpoints
